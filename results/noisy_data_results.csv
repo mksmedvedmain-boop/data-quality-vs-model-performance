@@ -1,5 +1,0 @@
-,accuracy,precision,recall,f1,True Negative,False Positive,False Negative,True Positive
-0% noise,0.81,0.786,0.743,0.764,90.0,15.0,19.0,55.0
-10% noise,0.469,0.471,0.363,0.41,51.0,37.0,58.0,33.0
-20% noise,0.196,0.229,0.151,0.182,19.0,54.0,90.0,16.0
-30% noise,0.196,0.225,0.152,0.182,19.0,55.0,89.0,16.0

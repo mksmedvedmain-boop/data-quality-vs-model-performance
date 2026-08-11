@@ -1,5 +1,0 @@
-Missing Data,Accuracy,Precision,Recall,F1-score,True Negative,False Positive,False Negative,True Positive
-0%,0.804,0.783,0.73,0.755,90,15,20,54
-10%,0.788,0.757,0.716,0.736,88,17,21,53
-20%,0.777,0.743,0.703,0.722,87,18,22,52
-30%,0.777,0.743,0.703,0.722,87,18,22,52

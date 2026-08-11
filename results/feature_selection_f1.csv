@@ -1,0 +1,4 @@
+Feature Set,Logistic Regression,Decision Tree,Random Forest
+Basic Features,0.761,0.522,0.643
+Extended Features,0.757,0.698,0.764
+All Features,0.764,0.742,0.778

@@ -1,4 +1,0 @@
-,Accuracy,Precision,Recall,F1-score,True Negative,False Positive,False Negative,True Positive
-Basic Features,0.81,0.794,0.73,0.761,91.0,14.0,20.0,54.0
-Extended Features,0.81,0.803,0.716,0.757,92.0,13.0,21.0,53.0
-All Features,0.81,0.786,0.743,0.764,90.0,15.0,19.0,55.0

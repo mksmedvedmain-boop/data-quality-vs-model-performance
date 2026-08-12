@@ -1,7 +1,6 @@
-# Data analysis
 pandas>=1.5.0
 numpy>=1.23.0
-# Machine learning
 scikit-learn>=1.2.0
-# Visualization
 matplotlib>=3.6.0
+jupyter>=1.0.0
+ipykernel>=6.0.0
